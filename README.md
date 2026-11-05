@@ -1,1 +1,2 @@
-# solar-panel-fault-detection_
+# solar-panel-fault-detection
+solar panel fault detection 
